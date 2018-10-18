@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Introducción}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Qué es el Málaga MakerSpace}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Objetivos de este taller}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Sistema de impresión en el MMS}{7}{0}{1}
+\beamer@sectionintoc {2}{Fundamentos de Modelado por Deposición Fundida (FDM)}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Partes y características de una impresora}{15}{0}{2}
+\beamer@subsectionintoc {2}{2}{Materiales}{20}{0}{2}
+\beamer@sectionintoc {3}{Antes de imprimir}{22}{0}{3}
+\beamer@sectionintoc {4}{Durante la impresión}{23}{0}{4}
+\beamer@sectionintoc {5}{Tras la impresión}{24}{0}{5}
