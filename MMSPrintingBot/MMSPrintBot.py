@@ -1,7 +1,7 @@
 import telebot
 import pandas as pd
 
-bot = telebot.TeleBot("655050720:AAFJBBiF-tfeVbaKj2gu7WV_qTXb1bUxrRs")
+bot = telebot.TeleBot("")
 users = pd.read_pickle('usrs.pk')
 
 def check_membership(id):
