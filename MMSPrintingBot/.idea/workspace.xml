@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6be3952-9bb2-4fae-a62b-4daf3297b1ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MMSPrintBot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.nav" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.nav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.out" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/.texpadtmp/main.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/main.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/main.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/main.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller basico FDM/Presentacion/main.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Impresoras/Prusa Hacendado (Prusa i3 MK1 clone)/Firmware/Marlin/Configuration.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Impresoras/Prusa Hacendado (Prusa i3 MK1 clone)/Firmware/Marlin/Configuration.h" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +14,10 @@
     <session id="-571385639">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -52,17 +44,17 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MMSPrintBot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            <state relative-caret-position="180">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1541258201327" expanded="true" signature="456:501" ph="..." />
-                <marker date="1541258201327" expanded="true" signature="1482:1572" ph="..." />
-                <marker date="1541258201327" expanded="true" signature="1572:1597" ph="..." />
+                <marker date="1543914300493" expanded="true" signature="411:456" ph="..." />
+                <marker date="1543914300493" expanded="true" signature="1437:1527" ph="..." />
+                <marker date="1543914300493" expanded="true" signature="1527:1552" ph="..." />
               </folding>
             </state>
           </provider>
@@ -173,15 +165,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="1394" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
@@ -189,6 +176,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299363" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -200,13 +191,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MMSPrintBot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        <state relative-caret-position="180">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1541258201327" expanded="true" signature="456:501" ph="..." />
-            <marker date="1541258201327" expanded="true" signature="1482:1572" ph="..." />
-            <marker date="1541258201327" expanded="true" signature="1572:1597" ph="..." />
+            <marker date="1543914300493" expanded="true" signature="411:456" ph="..." />
+            <marker date="1543914300493" expanded="true" signature="1437:1527" ph="..." />
+            <marker date="1543914300493" expanded="true" signature="1527:1552" ph="..." />
           </folding>
         </state>
       </provider>
